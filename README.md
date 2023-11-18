@@ -1,61 +1,26 @@
-# Extensify New Tab Broswer Extension
+# Focusify Browser Extension
 
-[Extensify](https://extensry.netlify.app/) is a super cool browser extension that greets you with a message according to the time of the day and shows different background on page refresh. With Extensry you can set your main/focus task of the day ansd also create your own todo.
+Focusify is a browser extension that transforms your new tab into a haven of productivity and serenity. This extension greets you with a personalized message based on the time of day and presents a refreshing background with each visit. Elevate your browsing experience with task management features, allowing you to set and track your main focus for the day and seamlessly integrate to-dos.
 
+## Features
 
-## List of features
-[Home Page](https://extensry.netlify.app/)
-- In the home page, you can start by adding your name and then press the enter key which will route you to the task page. If you refresh the home page you will see a different soothing background image.
+- **Dynamic Home Page**: Customize your browsing experience by entering your name and enjoy a soothing background that changes with every refresh.
 
-Task Page
--   In the task page, you can add your main/focus task of the day, once you complete the task you can eihter check it or clear it to create a new task. There is a beautiful ToDo at the bottom right of the page that let's you add todos. When the dat changes the main task will be deleted but the todo will still be there.
+- **Task Management**: Navigate to the Task Page to define your primary focus for the day. Easily add, complete, or clear tasks, ensuring you stay organized and on top of your goals.
 
+- **Time-Driven Reflection**: Experience a smooth transition as the day progresses. The main task is automatically cleared, but your to-dos remain intact, providing a seamless workflow.
 
-## Tech Stack
+- **Soothing Design**: Immerse yourself in a visually pleasing interface designed to foster a calm and focused mindset, making every browsing session delightful.
 
-- HTML/CSS
-- ReactJs
+## Getting Started
 
-## Author
+1. **Install**: Add the Focusify browser extension to your preferred browser.
+2. **Personalize**: Open a new tab, enter your name, and witness the refreshing background.
+3. **Task Management**: Head to the Task Page to set and manage your daily focus.
+4. **ToDo Integration**: Utilize the ToDo feature for additional task organization.
 
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
+## Contribution
 
+We welcome contributions to make Focusify even better! Feel free to submit issues, share your feature ideas, or contribute directly through pull requests.
 
-## Live Link
-
-https://extensry.netlify.app/
-
-## Add Extension to Firefox
-
-https://addons.mozilla.org/en-US/firefox/addon/prakash-extensry/
-
-
-## Run Locally
-
-Clone the project by adding the following command in the terminal.
-Make sure your have git installed and added to path.
-
-```bash
-  git clone https://github.com/prakashsakari/browser-extension.git
-```
-
-Go to the project directory
-
-```bash
-  cd browser-extension
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
+Make every new tab count with Focusify - where focus meets tranquility.
