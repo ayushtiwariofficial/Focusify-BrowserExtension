@@ -1,24 +1,24 @@
-# Focusify Browser Extension
+# **Focusify Browser Extension**
 
 Focusify is a browser extension that transforms your new tab into a haven of productivity and serenity. This extension greets you with a personalized message based on the time of day and presents a refreshing background with each visit. Elevate your browsing experience with task management features, allowing you to set and track your main focus for the day and seamlessly integrate to-dos.
 
 
-## Features
+## **Features**
 
-#### Dynamic Home Page:
+#### **Dynamic Home Page:**
 Begin your day by entering your name and immersing yourself in a tranquil background image that changes with each refresh, setting the perfect tone for your browsing session.
 
-#### Task Management:
+#### **Task Management:**
 Navigate to the Task Page to define your main focus for the day. Easily add, complete, or clear tasks, and watch as your to-dos persist even when the main task changes with the passing of time.
 
-#### Time-Driven Reflection:
+#### **Time-Driven Reflection:**
 Experience a seamless transition as the day progresses. The main task is automatically cleared, but your to-dos remain intact, ensuring you stay organized and on top of your goals.
 
-#### Soothing Design:
+#### **Soothing Design:**
 Immerse yourself in a visually pleasing interface that encourages a calm and focused mindset, making every browsing session a delightful experience.
 
 
-## Getting Started
+## **Getting Started**
 
 1. Install the Focusify browser extension.
 2. Open a new tab to unveil a world of productivity and tranquility.
@@ -27,7 +27,7 @@ Immerse yourself in a visually pleasing interface that encourages a calm and foc
 5. Utilize the ToDo feature for additional task organization.
 
 
-## Contribution
+## **Contribution**
 
 We welcome contributions to make Focusify even better! Feel free to submit issues, feature requests, or pull requests.
 
